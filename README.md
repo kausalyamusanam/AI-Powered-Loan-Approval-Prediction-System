@@ -1,5 +1,4 @@
 # AI-Powered-Loan-Approval-Prediction-System
-# AI Loan Approval Prediction
 
 ## Overview
 This project develops a machine learning system to predict whether a loan application should be approved based on applicant information such as income, loan amount, credit history, employment status, and demographics.
